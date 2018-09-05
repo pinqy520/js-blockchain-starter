@@ -1,0 +1,15 @@
+{
+  "name": "js-blockchain-starter",
+  "version": "0.0.1",
+  "description": "minimal blockchain boilerplate",
+  "main": "index.js",
+  "repository": "https://github.com/pinqy520/js-blockchain-starter.git",
+  "author": "pinqy520 <pinqy520@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "discovery-swarm": "^5.1.2",
+    "end-of-stream": "^1.4.1",
+    "protobufjs": "^6.8.8",
+    "uuid": "^3.3.2"
+  }
+}
